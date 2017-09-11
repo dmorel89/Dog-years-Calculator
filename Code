@@ -1,0 +1,8 @@
+*/ MY first lines of code in Javascript. It feels 
+amazing/*
+var humanYears = (Math.floor(Math.random()*100));
+var dogYears = humanYears * 7
+console.log(humanYears)
+
+console.log('in dog years it will be!')
+console.log(dogYears )
